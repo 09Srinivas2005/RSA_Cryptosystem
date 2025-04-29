@@ -8,7 +8,7 @@ This repository provides a complete implementation of the RSA cryptographic algo
 ## Project Structure
 
 ```
-RSA-Project/
+RSA_Cryptosystem/
 ├── Code/
 │   └── RSA_CS22B1040_Implementation.py   # Python implementation of RSA
 │
