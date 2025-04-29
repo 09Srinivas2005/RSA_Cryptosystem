@@ -10,13 +10,13 @@ This repository provides a complete implementation of the RSA cryptographic algo
 ```
 RSA-Project/
 ├── Code/
-│   └── rsa_code.py             # Python implementation of RSA
+│   └── RSA_CS22B1040_Implementation.py   # Python implementation of RSA
 │
 ├── Report/
-│   └── RSA_Cryptosystem_Report.pdf  # Detailed project report
+│   └── RSA_CS22B1040_Report.pdf  # Detailed project report
 │
 ├── Result/
-│   └── result_image.jpg        # Output visualization or encryption result screenshot
+│   └── RSA_CS22B1040_Results.jpg        # Output visualization or encryption result screenshot
 │
 └── README.md                   # Project description and instructions
 ```
@@ -49,13 +49,13 @@ The security of RSA lies in the computational difficulty of factoring large prim
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/RSA-Project.git
-cd RSA-Project
+git clone https://github.com/09Srinivas2005/RSA_Cryptosystem.git
+cd RSA_Cryptosystem
 ```
 
 ### 2. Run the RSA Program
 ```bash
-python Code/rsa_code.py
+python Code/RSA_CS22B1040_Implementation.py
 ```
 
 Follow the prompts to input your plaintext message and see encrypted and decrypted results.
@@ -64,7 +64,7 @@ Follow the prompts to input your plaintext message and see encrypted and decrypt
 
 ## Report
 
-The complete technical explanation of RSA is provided in the [`Report/RSA_Cryptosystem_Report.pdf`](Report/RSA_Cryptosystem_Report.pdf). It covers:
+The complete technical explanation of RSA is provided in the [`Report/RSA_CS22B1040_Report.pdf`](Report/RSA_CS22B1040_Report.pdf). It covers:
 - Overview of RSA
 - Methodology (Key Generation, Encryption, Decryption)
 - Applications of RSA
@@ -75,7 +75,7 @@ The complete technical explanation of RSA is provided in the [`Report/RSA_Crypto
 
 ## Result
 
-An example result of RSA encryption and decryption is available in the [`Result/result_image.jpg`](Result/result_image.jpg) file.
+An example result of RSA encryption and decryption is available in the [`Result/RSA_CS22B1040_Results.jpg`](Result/RSA_CS22B1040_Results.jpg) file.
 
 ---
 
