@@ -16,7 +16,7 @@ RSA-Project/
 │   └── RSA_CS22B1040_Report.pdf          # Detailed project report
 │
 ├── Result/
-│   └── RSA_CS22B1040_Results.jpg         # Output visualization or encryption result screenshot
+│   └── RSA_CS22B1040_Results.png         # Output visualization or encryption result screenshot
 │
 └── README.md                             # Project description and instructions
 ```
@@ -75,7 +75,7 @@ The complete technical explanation of RSA is provided in the [`Report/RSA_CS22B1
 
 ## Result
 
-An example result of RSA encryption and decryption is available in the [`Result/RSA_CS22B1040_Results.jpg`](Result/RSA_CS22B1040_Results.jpg) file.
+An example result of RSA encryption and decryption is available in the [`Result/RSA_CS22B1040_Results.png`](Result/RSA_CS22B1040_Results.png) file.
 
 ---
 
