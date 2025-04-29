@@ -1,11 +1,11 @@
 
-# 🔐 RSA Cryptosystem Project
+# RSA Cryptosystem Project
 
 This repository provides a complete implementation of the RSA cryptographic algorithm using Python. It includes the source code for RSA key generation, encryption, and decryption, as well as a detailed technical report and results for evaluation.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 RSA-Project/
@@ -23,7 +23,7 @@ RSA-Project/
 
 ---
 
-## 🧠 About RSA
+## About RSA
 
 **RSA (Rivest-Shamir-Adleman)** is an asymmetric cryptographic algorithm used for secure data transmission. It is widely used in digital security systems and underpins many secure protocols.
 
@@ -35,18 +35,17 @@ The security of RSA lies in the computational difficulty of factoring large prim
 
 ---
 
-## 🚀 Features
+## Features
 
 - RSA Key Pair Generation
 - Encryption of plaintext messages
 - Decryption of ciphertext back to original message
 - Message chunking for handling long messages
-- User-friendly command line interface
 - Includes technical documentation and result visualizations
 
 ---
 
-## 🛠️ How to Run the Code
+## How to Run the Code
 
 ### 1. Clone the Repository
 ```bash
@@ -63,7 +62,7 @@ Follow the prompts to input your plaintext message and see encrypted and decrypt
 
 ---
 
-## 📚 Report
+## Report
 
 The complete technical explanation of RSA is provided in the [`Report/RSA_Cryptosystem_Report.pdf`](Report/RSA_Cryptosystem_Report.pdf). It covers:
 - Overview of RSA
@@ -74,13 +73,13 @@ The complete technical explanation of RSA is provided in the [`Report/RSA_Crypto
 
 ---
 
-## 📸 Result
+## Result
 
 An example result of RSA encryption and decryption is available in the [`Result/result_image.jpg`](Result/result_image.jpg) file.
 
 ---
 
-## 📌 Applications of RSA
+## Applications of RSA
 
 - Secure email communication (PGP)
 - Digital signatures
@@ -90,28 +89,10 @@ An example result of RSA encryption and decryption is available in the [`Result/
 
 ---
 
-## 🔐 Security Considerations
+## Security Considerations
 
 - Key lengths of 2048 bits or more are recommended for modern applications.
 - RSA is theoretically vulnerable to quantum attacks (e.g., Shor's algorithm).
 - Use padding schemes like OAEP in production for added security.
 
 ---
-
-## 🤝 Contributions
-
-Contributions are welcome! Feel free to fork the repo and submit pull requests for improvements or new features.
-
----
-
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
-## ✍️ Author
-
-**Lakshmi Srinivas Panchananam**  
-B.Tech Computer Science, NIT Puducherry  
-Email: [your-email@example.com]
