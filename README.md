@@ -1,8 +1,7 @@
 
 # RSA Cryptosystem Project
 
-This repository provides a complete implementation of the RSA cryptographic algorithm using Python. It includes the source code for RSA key generation, encryption, and decryption, as well as a detailed technical report and results for evaluation.
-
+This repository contains a complete RSA (Rivest–Shamir–Adleman) cryptosystem implementation in Python, developed for the CS1702 Network Security Assignment. It includes key generation, encryption/decryption functionality, a technical report, and result analysis.
 ---
 
 ## Project Structure
