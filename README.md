@@ -13,12 +13,12 @@ RSA-Project/
 │   └── RSA_CS22B1040_Implementation.py   # Python implementation of RSA
 │
 ├── Report/
-│   └── RSA_CS22B1040_Report.pdf  # Detailed project report
+│   └── RSA_CS22B1040_Report.pdf          # Detailed project report
 │
 ├── Result/
-│   └── RSA_CS22B1040_Results.jpg        # Output visualization or encryption result screenshot
+│   └── RSA_CS22B1040_Results.jpg         # Output visualization or encryption result screenshot
 │
-└── README.md                   # Project description and instructions
+└── README.md                             # Project description and instructions
 ```
 
 ---
